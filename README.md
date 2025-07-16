@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/pratapbhingare" target="blank"><img src="https://img.shields.io/twitter/follow/pratapbhingare?logo=twitter&style=for-the-badge" alt="pratapbhingare" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m passionate MERN stack Devloper.
 
-- 💬 Ask me about **javascript , java , python**
+- 💬 Ask me about **javascript , React, Node.js , Express.js , java , python**
+
+- 🗄️ Expertise in Databases : Mongodb , Mysql , firebase
 
 - 📫 How to reach me **pratapbhingare28@gmail.com**
 
