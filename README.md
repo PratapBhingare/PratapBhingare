@@ -1,7 +1,7 @@
 [![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pratap Bhingare</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapbhingare&label=Profile%20views&color=0e75b6&style=flat" alt="pratapbhingare" /> </p>
 
